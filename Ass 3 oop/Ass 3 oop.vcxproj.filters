@@ -18,5 +18,11 @@
     <ClCompile Include="s4-20226013-20227002-20227031.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Try 2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
