@@ -128,9 +128,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Chat gbt.cpp" />
-    <ClCompile Include="s4-20226013-20227002-20227031.cpp" />
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Try 1.cpp" />
     <ClCompile Include="Try 2.cpp" />
+    <ClCompile Include="Try3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

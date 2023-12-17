@@ -15,16 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="s4-20226013-20227002-20227031.cpp">
+    <ClCompile Include="Try 1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Try 2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Source.cpp">
+    <ClCompile Include="Chat gbt.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Chat gbt.cpp">
+    <ClCompile Include="Try3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
