@@ -128,9 +128,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Chat gbt.cpp" />
-    <ClCompile Include="Try 1.cpp" />
-    <ClCompile Include="Try 2.cpp" />
-    <ClCompile Include="Try3.cpp" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Course.h" />
+    <ClInclude Include="GeneralStudent.h" />
+    <ClInclude Include="NormalCourse.h" />
+    <ClInclude Include="SpecialStudent.h" />
+    <ClInclude Include="Student.h" />
+    <ClInclude Include="SummerCourse.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
